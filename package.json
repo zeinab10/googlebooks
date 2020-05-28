@@ -1,0 +1,19 @@
+{
+  "name": "googlebooks",
+  "version": "1.0.0",
+  "description": "Google Books Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeinab10/googlebooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeinab10/googlebooks/issues"
+  },
+  "homepage": "https://github.com/zeinab10/googlebooks#readme"
+}
